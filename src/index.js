@@ -17,7 +17,7 @@ async function load_model() {
 
 let classesDir = {
     1: {
-        name: 'cyclist',
+        name: 'Cyclist',
         id: 1,
     },
     2: {
